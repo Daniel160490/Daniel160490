@@ -44,5 +44,5 @@
 ## 📫 Conéctate conmigo
 - ✨ [Instagram]([https://instagram.com/tuclubdefans](https://www.instagram.com/dani90gd/))  
 - 🐦 [Twitter]([https://twitter.com/tuusuario](https://x.com/Dani9oGD))  
-- 💼 [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/daniel-garc%C3%ADa-d%C3%ADaz-0a970862/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-garc%C3%ADa-d%C3%ADaz-0a970862/)  
 - 📧 **Email**: danigd71@gmail.com  
