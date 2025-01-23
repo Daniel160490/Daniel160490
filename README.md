@@ -1,4 +1,4 @@
-# 🖐️ ¡Hola! Soy **Daniel García Díaz** 👋  
+# 🖐️ ¡Hola! Soy **Daniel** 👋  
 💻 **Desarrollador de Software** | 🌈 **Creador de proyectos inclusivos** | 🎨 **Apasionado por la creatividad**
 
 ---
