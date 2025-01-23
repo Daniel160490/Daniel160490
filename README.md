@@ -22,7 +22,7 @@
 
 ## 📈 Estadísticas de mi GitHub
 <!-- Puedes usar servicios como https://github.com/anuraghazra/github-readme-stats para personalizar -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel160490&show_icons=true&theme=radical)
 
 ---
 
