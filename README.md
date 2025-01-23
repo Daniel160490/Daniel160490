@@ -4,17 +4,17 @@
 ---
 
 ## 📜 Sobre mí
-- 🚀 Desarrollador full-stack con experiencia en **React**, **Angular** y **Python**.  
+- 🚀 Desarrollador full-stack con experiencia en **React**, **Angular**, **Python** y **Java** 
 - 🎮 Trabajo en proyectos interactivos como **juegos de cartas** y aplicaciones orientadas a la educación, como **GrumpiApp**.  
-- 🌐 Apasionado por crear aplicaciones que promuevan la inclusión, como mi proyecto estilo **BlaBlaCar** enfocado en el colectivo **LGBTQ+**.  
-- 🎶 Además, administro un club de fans en Instagram dedicado al artista indie **Sienna**.  
+- 🌐 Apasionado por crear aplicaciones que promuevan la inclusión, como mi colaboración con el proyecto (**PRIDERIDE**) estilo **BlaBlaCar** enfocado en el colectivo **LGBTQ+**.  
+- 🎶 Además, ayudo a administrar un club de fans en Instagram dedicado al artista indie **Sienna**.  
 
 ---
 
 ## 🔧 Tecnologías y herramientas
 - **Frontend:** React, Angular, Ionic  
-- **Backend:** Python (Flask, FastAPI), Node.js  
-- **Bases de datos:** PostgreSQL, MongoDB  
+- **Backend:** Python (Flask, FastAPI), Node.js, Java  
+- **Bases de datos:** PostgreSQL, MongoDB, SQLite  
 - **DevOps:** Render, Vercel, GitHub Actions  
 - **Otros:** Firebase, WebSockets  
 
@@ -28,7 +28,7 @@
 
 ## 🚧 Proyectos destacados
 - 🏆 **GrumpiApp**: Aplicación educativa para niños con un sistema de recompensas y monedas virtuales.  
-- 🚗 **RideTogether**: Una app inclusiva estilo BlaBlaCar para el colectivo LGBTQ+.  
+- 🚗 **PrideRide**: Una app inclusiva estilo BlaBlaCar para el colectivo LGBTQ+.  
 - 🎲 **Minijuego de cartas estilo Pokémon**: Parte de mi proyecto en Angular.  
 
 ---
@@ -40,7 +40,7 @@
 ---
 
 ## 📫 Conéctate conmigo
-- ✨ [Instagram](https://instagram.com/tuclubdefans)  
-- 🐦 [Twitter](https://twitter.com/tuusuario)  
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
-- 📧 **Email**: tuemail@gmail.com  
+- ✨ [Instagram]([https://instagram.com/tuclubdefans](https://www.instagram.com/dani90gd/))  
+- 🐦 [Twitter]([https://twitter.com/tuusuario](https://x.com/Dani9oGD))  
+- 💼 [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/daniel-garc%C3%ADa-d%C3%ADaz-0a970862/))  
+- 📧 **Email**: danigd71@gmail.com  
