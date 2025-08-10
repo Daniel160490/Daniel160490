@@ -30,7 +30,7 @@
 - 🏆 **GrumpiApp**: Aplicación educativa para niños con un sistema de recompensas y monedas virtuales, basado en Pokémon, pero con criaturas propias.
       ([https://github.com/PandaGamingClassroom/grumpiStore](https://github.com/PandaGamingClassroom/grumpiStore)) 
 - 🚗 **PrideRide**: Una app inclusiva estilo BlaBlaCar para el colectivo LGBTQ+.
-      ([https://github.com/PandaGamingClassroom/grumpiStore](https://github.com/JTomas88/PrideRide)) 
+      (PrideRide]([https://github.com/JTomas88/PrideRide)]) 
 - 🎲 **Minijuego de cartas Grumpi, estilo Pokémon**: En este momento forma parte de **GrumpiApp** y está en construcción aún.  
 
 ---
